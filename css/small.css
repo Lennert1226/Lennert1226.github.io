@@ -6,19 +6,19 @@
         "Helvetica Neue", sans-serif;
     --mono-font: Consolas, Menlo, Monaco, "Andale Mono", "Ubuntu Mono", monospace;
 
-    --header-bg: #d19696;
+    --header-bg: #f9a3ff;
     --bg: white;
     --nav: #b99797;
-    --box-bg: #d8bebe;
-    --text: #dcdcdc;
+    --box-bg: #a0f9ca;
+    --text: #f6ff00;
     --text-light: #ababab;
     --border: #666;
     --image_border_color: #666;
     --image_border_px: 2px;
     --image_width: 100px;
     --image_height: 100px;
-    --title-text: rgb(212, 91, 91);
-    --description-text: rgb(161, 120, 120);
+    --title-text: rgb(255, 138, 48);
+    --description-text: rgb(255, 138, 48);
 
 }
 
