@@ -34,9 +34,9 @@
     /* 導航菜單邊框厚度 */
     --footer_background_color: rgb(244, 183, 255);
     /* 頁腳背景顏色 */
-    --footer_text_color: #ddff00;
+    --footer_text_color: #fbff00;
     /* 頁腳文字顏色 */
-    --footer_link_text_color: #ddff00;
+    --footer_link_text_color: #fbff00;
     /* 頁腳連結文字顏色 */
 }
 
@@ -49,6 +49,7 @@ body {
     line-height: 1.5;
     /* 行高 */
     background: var(--background_color) var(--background_image) no-repeat center;
+    background-size: cover;
     /* 設定背景顏色和圖片 */
     min-height: 100vh;
     /* 最小高度為視窗的高度 */
