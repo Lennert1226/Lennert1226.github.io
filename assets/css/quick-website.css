@@ -15283,6 +15283,30 @@ button.bg-translucent-secondary:focus
     background-color: rgba(195, 201, 221, .6) !important;
 }
 
+
+.bg-pink
+{
+    background-color: #fcfdfe;
+}
+
+.bg-gradient-pink
+{
+    background: linear-gradient(50deg, #eaecf3 0, #ebeaf3 100%) !important;
+}
+
+.bg-translucent-pink
+{
+    background-color: rgba(211, 215, 230, .6) !important;
+}
+
+a.bg-translucent-pink:hover,
+a.bg-translucent-pink:focus,
+button.bg-translucent-pink:hover,
+button.bg-translucent-pink:focus
+{
+    background-color: rgba(195, 201, 221, .6) !important;
+}
+
 .bg-light-success
 {
     background-color: #82d6bc !important;
